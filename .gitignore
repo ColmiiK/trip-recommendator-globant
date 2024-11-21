@@ -1,0 +1,35 @@
+# Virtual environment
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local database
+*.sqlite3
+
+# Logs
+*.log
+
+# Secrets
+.env
+
+# Static and media files (optional)
+/staticfiles/
+/media/
+
+# IDE and system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Test/build artifacts
+.coverage
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+
+node_modules/
+
